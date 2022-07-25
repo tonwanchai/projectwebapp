@@ -8,6 +8,9 @@ export default function Home() {
       <Head>
         <title>I first</title>
       </Head>
+      <Box>
+        nice
+      </Box>
     </>
   )
 }
